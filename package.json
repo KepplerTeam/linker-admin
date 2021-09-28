@@ -1,5 +1,5 @@
 {
-  "name": "linker-client",
+  "name": "linker-admin",
   "version": "0.1.0",
   "private": true,
   "scripts": {
